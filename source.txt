@@ -1,0 +1,42 @@
+Remarque : il est possible que le css de certains 
+composants influencent les autres. Il est donc recommandé
+de regarder les composants en individuel (mettre les
+autres en commentaires)
+
+MusicCard :
+https://uiverse.io/hoshikawamaki/pretty-panther-5
+
+DesactivateAccount : 
+https://uiverse.io/abhishek-06-singh/horrible-tiger-98
+
+IDCard :
+https://uiverse.io/Yaya12085/curvy-otter-58
+
+CoffeeMachine :
+https://uiverse.io/AnnixArt/wonderful-liger-82
+
+SunsetCard :
+https://uiverse.io/aadium/foolish-vampirebat-5
+
+    Remarque : les couleurs de background de SunsetCard 
+    ont modifiées les couleurs de IDCard.
+
+Toasters :
+https://uiverse.io/Cybercom682/empty-wolverine-58
+
+OrderTracker :
+https://uiverse.io/PriyanshuGupta28/orange-newt-23
+
+TimeFlies :
+https://uiverse.io/whoisyourdeadie/friendly-dingo-90
+
+ImageCard :
+https://uiverse.io/gharsh11032000/selfish-owl-57
+    Remarque : les couleurs de background de ImageCard 
+    ont modifiées les couleurs de IDCard.
+
+BorderCard :
+https://uiverse.io/alexruix/heavy-elephant-39
+
+GlowingFlipCard :
+https://uiverse.io/Pravins01/odd-fly-66

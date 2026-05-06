@@ -1,0 +1,16 @@
+import './GlowingFlipCard.css';
+
+export default function GlowingFlipCard() {
+    return (
+<div class="card">
+  <p class="heading">
+    Popular this month
+  </p>
+  <p>
+    Powered By
+  </p>
+  <p>Uiverse
+</p></div>
+
+    )
+    }
